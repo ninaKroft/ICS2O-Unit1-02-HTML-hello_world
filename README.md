@@ -5,4 +5,4 @@ unit1-02
 
 <a href="https://ninakroft.github.io/ICS2O-Unit1-02-HTML-hello_world/">Hello World Webpage</a>
 <br>
-<a href="https://ninakroft.github.io/ICS2O-Unit1-02-HTML-hello_world/genesis.html>"The Old Testament Webpage</a>
+<a href="https://ninakroft.github.io/ICS2O-Unit1-02-HTML-hello_world/genesis.html">The Old Testament Webpage</a>
